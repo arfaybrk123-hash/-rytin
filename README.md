@@ -3,9 +3,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arfaybrk123-hash&label=Profile%20views&color=0e75b6&style=flat" alt="arfaybrk123-hash" /> </p>
 
+- 🔭 I’m currently working on [Shyra bots](Pas de pour l’instant)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/#ryting" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="#ryting" height="30" width="40" /></a>
+<a href="https://twitter.com/arfay496347" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="arfay496347" height="30" width="40" /></a>
 <a href="https://instagram.com/says___999" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="says___999" height="30" width="40" /></a>
 </p>
 
@@ -17,4 +20,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arfaybrk123-hash&show_icons=true&locale=en" alt="arfaybrk123-hash" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arfaybrk123-hash&" alt="arfaybrk123-hash" /></p>
-
