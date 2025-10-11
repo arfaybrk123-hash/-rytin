@@ -3,7 +3,17 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arfaybrk123-hash&label=Profile%20views&color=0e75b6&style=flat" alt="arfaybrk123-hash" /> </p>
 
-- 🔭 I’m currently working on [Shyra bots](Pas de pour l’instant)
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arfaybrk123-hash" alt="arfaybrk123-hash" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/arfay496347" target="blank"><img src="https://img.shields.io/twitter/follow/arfay496347?logo=twitter&style=for-the-badge" alt="arfay496347" /></a> </p>
+
+- 🔧 I’m currently working on [Shyra bots](Pas de lien pour l’instant)
+
+- 🤝 I’m looking to collaborate on [Yassine](Pas de lien pour l’instant)
+
+### Blogs posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
