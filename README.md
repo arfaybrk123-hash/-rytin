@@ -1,6 +1,8 @@
-<h1 align="center">Salut 👋, je suis Arfay</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
-
+<h1 align="center">Je me présente #ryting</h1>
+<h3 align="center">Shyra projet 2027</h3>
+<!-- Intro -->
+<p style="margin: 15px;" align="center">
+       <img src="https://readme-typing-svg.herokuapp.com?duration=2000&color=ffffffcenter=true&vCenter=true&lines=Developpeur+Yasines+ryting;+Termux+Python">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arfaybrk123-hash&label=Profile%20views&color=0e75b6&style=flat" alt="arfaybrk123-hash" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arfaybrk123-hash" alt="arfaybrk123-hash" /></a> </p>
@@ -10,15 +12,15 @@
 - 🔧 Je travaille actuellement sur [Shyra](Pas de lien pour l’instant)
 
 - 🤝 collaborateur [Yassine](Pas de lien pour l’instant)
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+<p align="center">
+    <img align="center" src="https://media.giphy.com/media/z5iCvo1oCbqt7ukMQs/giphy.gif">
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/#ryting" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="#ryting" height="30" width="40" /></a>
 <a href="https://twitter.com/arfay496347" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="arfay496347" height="30" width="40" /></a>
+<a href="https://instagram.com/says___999" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="says___999" height="30" width="40" /></a>
+<a href="https://discord.gg/<@1362171528321564852>" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="<@1362171528321564852>" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
