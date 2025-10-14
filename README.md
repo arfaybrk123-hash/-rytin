@@ -31,3 +31,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arfaybrk123-hash&show_icons=true&locale=en" alt="arfaybrk123-hash" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arfaybrk123-hash&" alt="arfaybrk123-hash" /></p>
+
+                         merci d’avoir regardez mon profil bonne journée à vous 😀
