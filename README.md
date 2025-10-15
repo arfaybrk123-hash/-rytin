@@ -32,4 +32,4 @@
 
 
 
-                         merci d’avoir regardez mon profil bonne journée à vous 😀
+                        merci d’avoir regardez mon profil bonne journée à vous 😀
