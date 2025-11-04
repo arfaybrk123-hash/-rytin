@@ -2,7 +2,7 @@
 <h3 align="center">Shyra projet 2027</h3>
 <!-- Intro -->
 <p style="margin: 15px;" align="center">
-       <img src="https://readme-typing-svg.herokuapp.com?duration=2000&color=ffffffcenter=true&vCenter=true&lines=Developpeur+Yasines+ryting;+Termux+Python">
+       <img src="https://readme-typing-svg.herokuapp.com?duration=2000&color=ffffffcenter=true&vCenter=true&lines=Developpeur+ryting;+Termux+Python">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arfaybrk123-hash&label=Profile%20views&color=0e75b6&style=flat" alt="arfaybrk123-hash" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arfaybrk123-hash" alt="arfaybrk123-hash" /></a> </p>
